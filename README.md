@@ -6,24 +6,24 @@ I spend my days wrangling data, building dashboards, and asking *"but what's the
 
 ---
 
-### 🛠️ What I work with
+### What I work with
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Tableau
 
 ---
 
-### 🧠 Currently thinking about
+### Currently thinking about
 
 - 💰 Pricing strategy
 - 📈 Yield optimisation
 
 ---
 
-### 🎾 Off the clock
+### Off the clock
 
-On the tennis court — aggressively debugging my backhand.
+On the tennis court — aggressively debugging my backhand. 🎾
 
 ---
 
