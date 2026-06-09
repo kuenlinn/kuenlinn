@@ -6,4 +6,4 @@ I spend my days wrangling data with Python and SQL, turning messy datasets into 
 
 When I'm not staring at numbers, I'm on the tennis court aggressively debugging my backhand 🎾.
 
-*"If you can't measure it, you can't optimise it. And if you can optimise it, I probably already have a dashboard for it."*
+*"If you can't measure it, you can't optimise it. I'm just here trying to measure the right things."*
